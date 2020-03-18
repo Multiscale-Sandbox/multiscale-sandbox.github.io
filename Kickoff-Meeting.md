@@ -3,4 +3,4 @@
 
 (Need to put in a schedule of the workshop...)
 
-!(Media/square-KMC-10000.mp4 "Kinetic Monte Carlo of square lattice")
+![KMC video](Media/square-KMC-10000.mp4 "Kinetic Monte Carlo of square lattice")
