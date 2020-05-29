@@ -1,6 +1,11 @@
 ## Research
 
-*This project is part of the National Science Foundation's Harnessing the Data Revolution (HDR) Big Idea activity, and is jointly supported by HDR and the Division of Mathematical Sciences within the NSF Directorate of Mathematical and Physical Sciences.* [NSF/HDR award 1939916](https://nsf.gov/awardsearch/showAward?AWD_ID=1939916&HistoricalAwards=false)
+*This project is part of the National Science Foundation's Harnessing the Data Revolution (HDR) Big Idea activity, and is jointly supported by HDR and the Division of Mathematical Sciences within the NSF Directorate of Mathematical and Physical Sciences.*
+NSF/HDR award numbers: 
+[NYU: 1940145](https://nsf.gov/awardsearch/showAward?AWD_ID=1940145&HistoricalAwards=false), 
+[SUNY: 1940260](https://nsf.gov/awardsearch/showAward?AWD_ID=1940260&HistoricalAwards=false),
+[UIUC: 1940287](https://nsf.gov/awardsearch/showAward?AWD_ID=1940287&HistoricalAwards=false),
+[U. Minn.: 1939916](https://nsf.gov/awardsearch/showAward?AWD_ID=1939916&HistoricalAwards=false)
 
 This project addresses two of the most pressing challenges in modern scientific research: (a) modeling natural phenomena across a broad range of space and time scales, and (b) the application of data science to discover physically meaningful relationships from large datasets. It will leverage knowledge from related and disparate disciplines, connecting them through data science. Four specific problems will be studied: cloud formation and evolution, movement of particles through random media, frustrated magnetic systems, and the reconstruction of urban topography. These benchmark problems have been selected as they capture different disciplinary aspects of multi-scale challenges. State-of-the-art methods in machine learning (including Artificial Neural Networks) will be used to develop new mathematical representation for small-scale processes. If successful, this project will substantially increase the capability of scientific computing to address a wide variety of important problems from the natural and social sciences, and will be disseminated widely through a pair of workshops, multiple campus visits across the 5-institution consortium, high impact peer-reviewed publications and presentations and the training of a cadre of more than a dozen post-docs and students.
 
