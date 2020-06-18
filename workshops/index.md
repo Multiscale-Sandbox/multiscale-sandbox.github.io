@@ -4,3 +4,4 @@ As part of our team effort, we regularly hold workshops with a mix of internal g
 
 * [January 8th-11th Workshop in New York, NY](Kickoff-Meeting.html) 
 * [May 20-21st Virtual Workshop in Minneapolis, MN](Minneapolis-Meeting.html)
+* [June 24-25th Virtual Workshop](June2020-Meeting.html)
