@@ -1,4 +1,14 @@
 # Workshop Meeting
+
+## July 22, 2020
+
+
+Date  | Start time (EST) | Speaker | Title |
+ :- | :- | :------------ |
+ 6/24 |  1:00 PM | Kevin Mcilhany |  |
+ 6/24 |  2:00 PM | Li Huilin| Statistical Modeling on Human Microbiome Data |
+ 6/24 |  3:00 PM | Team discussion
+ 
 ## June 24, 2020
 
 Date  | Start time (EST) | Speaker | Title |
