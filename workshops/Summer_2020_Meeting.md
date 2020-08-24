@@ -2,15 +2,14 @@
 
 ## August 26, 2020
 
-
 Date  | Start time (EST) | Speaker | Title |
  :- | :- | :------------ |
  8/26 |  12:00 PM | Dimitris Giannakis |  |
  8/26 |  1:30 PM | Onyema Osuagwu|  |
  8/26 |  3:30 PM | Camillo Mora |
  8/26 |  3:30 PM | Team discussion
+ 
 ## July 22, 2020
-
 
 Date  | Start time (EST) | Speaker | Title |
  :- | :- | :------------ |
