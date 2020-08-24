@@ -1,13 +1,22 @@
 # Workshop Meeting
 
+## August 26, 2020
+
+
+Date  | Start time (EST) | Speaker | Title |
+ :- | :- | :------------ |
+ 8/26 |  12:00 PM | Dimitris Giannakis |  |
+ 8/26 |  1:30 PM | Onyema Osusgwu|  |
+ 8/26 |  3:30 PM | Camillo Mora |
+ 8/26 |  3:30 PM | Team discussion
 ## July 22, 2020
 
 
 Date  | Start time (EST) | Speaker | Title |
  :- | :- | :------------ |
- 6/24 |  1:00 PM | Kevin Mcilhany |  |
- 6/24 |  2:00 PM | Li Huilin| Statistical Modeling on Human Microbiome Data |
- 6/24 |  3:00 PM | Team discussion
+ 7/22 |  1:00 PM | Kevin Mcilhany |  |
+ 7/22 |  2:00 PM | Li Huilin| Statistical Modeling on Human Microbiome Data |
+ 7/22 |  3:00 PM | Team discussion
  
 ## June 24, 2020
 
